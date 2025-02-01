@@ -1,7 +1,7 @@
 👋 Hi, I'm @dericknana237  
 💻 Web & Mobile Developer | React Native | React.js | Angular | Java Spring Boot 
 🚀 Passionate about building scalable & high-performance applications  
-👀 
+👀 Ui/Ux Design with Figma
 🌱 Currently enhancing my expertise in Kotlin & Android Development  
 🤝 Open to collaborations on innovative projects  
 📫 Let's connect!
