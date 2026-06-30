@@ -1,7 +1,8 @@
 Hi, I'm DERICK
-Senior Software Engineer & UI/UX Designer specializing in scalable web and mobile ecosystems. I bridge the gap between robust architecture and clean, intuitive interfaces.
-Currently deepening my expertise in native Android development with Kotlin and I'mlearning business.
-Always open to architectural challenges, performance optimization, and innovative tech collaborations.
+Senior Software Engineer, UI/UX Designer specializing in scalable web and mobile ecosystems. I bridge the gap between robust architecture, business strategy, and clean, intuitive interfaces.
+**Core Expertise:** building production-ready products.
+**Currently expanding:** Deepening my knowledge in Business Strategy, Product Management, and Native Android Development (Kotlin).
+**Let's connect:** Always open to projects challenges, performance optimization, and innovative product collaborations.
 
 Recents Projects & Business Impact
 
