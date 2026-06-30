@@ -1,20 +1,27 @@
-👋 Hi, I'm @dericknana237  
-💻 Web & Mobile Developer | React Native | React.js | Angular | Java Spring Boot 
-🚀 Passionate about building scalable & high-performance applications  
-👀 Ui/Ux Design with Figma
-🌱 Currently enhancing my expertise in Kotlin & Android Development  
-🤝 Open to collaborations on innovative projects  
-📫 Let's connect!
+Hi, I'm DERICK
+Senior Software Engineer & UI/UX Designer specializing in scalable web and mobile ecosystems. I bridge the gap between robust architecture and clean, intuitive interfaces.
 
-📂 Featured Projects
-  🔹 Frontend & Mobile Development
-  📱 Nelam App - Mobile frontend built with React Native
-  🌍 Nelam Admin - Web admin dashboard using React.js
-  🏥 Mopital - Healthcare mobile app developed in React Native
-🎨 UI/UX Design with Figma
-🔹 Pa-Yu UI Design - Optimized user experience & interface
-🔹 Nelam UI Design - Modern and intuitive UI for logistics
-🔹 Mopital UI Design - Healthcare-focused user interface
+Currently deepening my expertise in native Android development with Kotlin and I'mlearning business.
+Always open to architectural challenges, performance optimization, and innovative tech collaborations.
+
+Projets Phares (Focus sur l'impact)
+>>> Mobile & web Frontend
+- Nelam App & Admin
+- Aurali Flow App
+- Aurali Flow Storefront
+- Mopital Web et Admin
+
+>>> UI/UX Design (Figma)
+- Nelam
+- Aurali Flow
+- Zihma
+- Mopital
+- Pa-Yu
+
+Tech Stack
+Frontend & Mobile : React Native, React.js, Angular, Vue JS, Figma
+Backend & Infra   : Python
+Learning          : Business, Kotlin & Native Android Development
 <!---
 dericknana237/dericknana237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
