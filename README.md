@@ -1,11 +1,6 @@
-Hi, I'm DERICK
-Senior Software Engineer, UI/UX Designer specializing in scalable web and mobile ecosystems. I bridge the gap between robust architecture, business strategy, and clean, intuitive interfaces.
-**Core Expertise:** building production-ready products.
-**Currently expanding:** Deepening my knowledge in Business Strategy, Product Management, and Native Android Development (Kotlin).
-**Let's connect:** Always open to projects challenges, performance optimization, and innovative product collaborations.
+Hi, I’m Derick, a senior software developer and UI/UX designer specializing in scalable web and mobile ecosystems. I bridge the gap between robust architecture, business strategy, and clean, intuitive interfaces. My core focus is designing production-ready products. I am currently expanding my skills in native Android development (Kotlin). Feel free to contact me—I am always open to challenging projects, performance optimization, and innovative product collaborations.
 
 Recents Projects & Business Impact
-
 >>> Mobile & web Frontend
 - Nelam App & Admin : Mobile app and web dashboard streamlining logistics and operational management.
 - Aurali Flow App & Aurali Flow Storefront : Multi-Tenant B2B Stock Management SaaS
@@ -20,8 +15,7 @@ Recents Projects & Business Impact
 - Backend & Infra : Python, Docker,
 - CI/CD : GitHub Actions, Automated Pipelines
 >>> Continuous Growth
-- Advanced Business Fundamentals & Product Strategy
-- Kotlin & Native Android Development
+
 <!---
 dericknana237/dericknana237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
